@@ -1,0 +1,78 @@
+none err: 0
+exit pid: 21967 exit_code: 0 exit_signal: 17
+fork parent: 11216, child: 22001
+exec pid: 22001
+fork parent: 22001, child: 22002
+fork parent: 22002, child: 22003
+fork parent: 22002, child: 22004
+fork parent: 22002, child: 22005
+exec pid: 22003
+exec pid: 22004
+exec pid: 22005
+exit pid: 22003 exit_code: 0 exit_signal: 17
+exit pid: 22005 exit_code: 0 exit_signal: 17
+exit pid: 22004 exit_code: 0 exit_signal: 17
+exit pid: 22002 exit_code: 0 exit_signal: 17
+exit pid: 22001 exit_code: 0 exit_signal: 17
+fork parent: 11216, child: 22006
+exec pid: 22006
+fork parent: 22006, child: 22007
+exec pid: 22007
+exit pid: 22007 exit_code: 0 exit_signal: 17
+fork parent: 22006, child: 22008
+fork parent: 22008, child: 22009
+fork parent: 22008, child: 22010
+fork parent: 22008, child: 22011
+exec pid: 22009
+exec pid: 22010
+exec pid: 22011
+exit pid: 22009 exit_code: 0 exit_signal: 17
+exit pid: 22010 exit_code: 0 exit_signal: 17
+exit pid: 22011 exit_code: 0 exit_signal: 17
+exit pid: 22008 exit_code: 0 exit_signal: 17
+fork parent: 22006, child: 22012
+exec pid: 22012
+exit pid: 22012 exit_code: 0 exit_signal: 17
+fork parent: 22006, child: 22013
+fork parent: 22013, child: 22014
+fork parent: 22013, child: 22015
+exit pid: 22014 exit_code: 0 exit_signal: 17
+exec pid: 22015
+exit pid: 22015 exit_code: 0 exit_signal: 17
+exit pid: 22013 exit_code: 0 exit_signal: 17
+fork parent: 22006, child: 22016
+fork parent: 22016, child: 22017
+fork parent: 22016, child: 22018
+fork parent: 22016, child: 22019
+fork parent: 22016, child: 22020
+exec pid: 22017
+exec pid: 22018
+exec pid: 22019
+exec pid: 22020
+exit pid: 22018 exit_code: 256 exit_signal: 17
+exit pid: 22019 exit_code: 256 exit_signal: 17
+exit pid: 22017 exit_code: 0 exit_signal: 17
+exit pid: 22020 exit_code: 0 exit_signal: 17
+exit pid: 22016 exit_code: 0 exit_signal: 17
+exit pid: 22006 exit_code: 0 exit_signal: 17
+fork parent: 11222, child: 22021
+exec pid: 22021
+exit pid: 22021 exit_code: 0 exit_signal: 17
+exit pid: 21962 exit_code: 0 exit_signal: 17
+fork parent: 11253, child: 22022
+exec pid: 22022
+fork parent: 11222, child: 22023
+exec pid: 22023
+exit pid: 22023 exit_code: 0 exit_signal: 17
+exit pid: 22000 exit_code: 0 exit_signal: 17
+fork parent: 21986, child: 22024
+exec pid: 22024
+fork parent: 22024, child: 22025
+exit pid: 22025 exit_code: 0 exit_signal: 17
+exit pid: 22024 exit_code: 0 exit_signal: 17
+fork parent: 21986, child: 22026
+exec pid: 22026
+exit pid: 22022 exit_code: 0 exit_signal: 17
+fork parent: 11253, child: 22027
+exec pid: 22027
+exit pid: 22026 exit_code: 0 exit_signal: 17

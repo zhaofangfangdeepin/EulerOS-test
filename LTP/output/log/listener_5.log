@@ -1,0 +1,105 @@
+none err: 0
+exit pid: 22127 exit_code: 0 exit_signal: 17
+fork parent: 11253, child: 22135
+exec pid: 22135
+fork parent: 11216, child: 22136
+exec pid: 22136
+exit pid: 22136 exit_code: 0 exit_signal: 17
+fork parent: 11216, child: 22137
+exec pid: 22137
+fork parent: 22137, child: 22138
+fork parent: 22138, child: 22139
+fork parent: 22138, child: 22140
+fork parent: 22138, child: 22141
+exec pid: 22139
+exec pid: 22140
+exec pid: 22141
+exit pid: 22139 exit_code: 0 exit_signal: 17
+exit pid: 22140 exit_code: 0 exit_signal: 17
+exit pid: 22141 exit_code: 0 exit_signal: 17
+exit pid: 22138 exit_code: 0 exit_signal: 17
+fork parent: 22137, child: 22142
+fork parent: 22142, child: 22143
+fork parent: 22142, child: 22144
+fork parent: 22142, child: 22145
+exec pid: 22143
+exec pid: 22144
+exec pid: 22145
+exit pid: 22144 exit_code: 0 exit_signal: 17
+exit pid: 22145 exit_code: 0 exit_signal: 17
+exit pid: 22143 exit_code: 0 exit_signal: 17
+exit pid: 22142 exit_code: 0 exit_signal: 17
+fork parent: 22137, child: 22146
+fork parent: 22146, child: 22147
+fork parent: 22146, child: 22148
+exit pid: 22147 exit_code: 0 exit_signal: 17
+exec pid: 22148
+exit pid: 22148 exit_code: 0 exit_signal: 17
+exit pid: 22146 exit_code: 0 exit_signal: 17
+exit pid: 22137 exit_code: 0 exit_signal: 17
+exit pid: 22134 exit_code: 0 exit_signal: 17
+fork parent: 21986, child: 22149
+exec pid: 22149
+gid pid: 22149 egid: 65534 rgid: 65534
+exit pid: 22149 exit_code: 0 exit_signal: 17
+fork parent: 21986, child: 22150
+exec pid: 22150
+fork parent: 11216, child: 22151
+exec pid: 22151
+fork parent: 22151, child: 22152
+fork parent: 22152, child: 22153
+fork parent: 22152, child: 22154
+fork parent: 22152, child: 22155
+exec pid: 22153
+exec pid: 22154
+exec pid: 22155
+exit pid: 22153 exit_code: 0 exit_signal: 17
+exit pid: 22154 exit_code: 0 exit_signal: 17
+exit pid: 22155 exit_code: 0 exit_signal: 17
+exit pid: 22152 exit_code: 0 exit_signal: 17
+exit pid: 22151 exit_code: 0 exit_signal: 17
+fork parent: 11216, child: 22156
+exec pid: 22156
+fork parent: 22156, child: 22157
+exec pid: 22157
+exit pid: 22157 exit_code: 0 exit_signal: 17
+fork parent: 22156, child: 22158
+fork parent: 22158, child: 22159
+fork parent: 22158, child: 22160
+fork parent: 22158, child: 22161
+exec pid: 22159
+exec pid: 22160
+exec pid: 22161
+exit pid: 22159 exit_code: 0 exit_signal: 17
+exit pid: 22160 exit_code: 0 exit_signal: 17
+exit pid: 22161 exit_code: 0 exit_signal: 17
+exit pid: 22158 exit_code: 0 exit_signal: 17
+fork parent: 22156, child: 22162
+exec pid: 22162
+exit pid: 22162 exit_code: 0 exit_signal: 17
+fork parent: 22156, child: 22163
+fork parent: 22163, child: 22164
+fork parent: 22163, child: 22165
+exit pid: 22164 exit_code: 0 exit_signal: 17
+exec pid: 22165
+exit pid: 22165 exit_code: 0 exit_signal: 17
+exit pid: 22163 exit_code: 0 exit_signal: 17
+fork parent: 22156, child: 22166
+fork parent: 22166, child: 22167
+fork parent: 22166, child: 22168
+fork parent: 22166, child: 22169
+fork parent: 22166, child: 22170
+exec pid: 22167
+exec pid: 22168
+exec pid: 22169
+exec pid: 22170
+exit pid: 22168 exit_code: 256 exit_signal: 17
+exit pid: 22167 exit_code: 0 exit_signal: 17
+exit pid: 22169 exit_code: 256 exit_signal: 17
+exit pid: 22170 exit_code: 0 exit_signal: 17
+exit pid: 22166 exit_code: 0 exit_signal: 17
+exit pid: 22156 exit_code: 0 exit_signal: 17
+exit pid: 22135 exit_code: 0 exit_signal: 17
+fork parent: 11253, child: 22171
+exec pid: 22171
+exit pid: 22150 exit_code: 0 exit_signal: 17

@@ -1,0 +1,8 @@
+abort01 abort01
+fanotify06 fanotify06
+kill11 kill11
+dirtyc0w dirtyc0w
+timer_create01 timer_create01
+copy_file_range02 copy_file_range02
+proc01 proc01 -m 128
+read_all_proc read_all -d /proc -q -r 10

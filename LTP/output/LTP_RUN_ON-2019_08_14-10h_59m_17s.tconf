@@ -1,0 +1,202 @@
+cacheflush01 cacheflush01
+chown01_16 chown01_16
+chown02_16 chown02_16
+chown03_16 chown03_16
+chown04_16 chown04_16
+chown05_16 chown05_16
+delete_module01 delete_module01
+delete_module03 delete_module03
+eventfd01 eventfd01
+fsetxattr02 fsetxattr02
+fchown01_16 fchown01_16
+fchown02_16 fchown02_16
+fchown03_16 fchown03_16
+fchown04_16 fchown04_16
+fchown05_16 fchown05_16
+fcntl06 fcntl06
+fcntl06_64 fcntl06_64
+fcntl24 fcntl24
+fcntl24_64 fcntl24_64
+fcntl25 fcntl25
+fcntl25_64 fcntl25_64
+fcntl26 fcntl26
+fcntl26_64 fcntl26_64
+fcntl32 fcntl32
+fcntl32_64 fcntl32_64
+fcntl33 fcntl33
+fcntl33_64 fcntl33_64
+fgetxattr02 fgetxattr02
+fgetxattr03 fgetxattr03
+futimesat01 futimesat01
+getdents01 getdents01
+getdents02 getdents02
+getegid01_16 getegid01_16
+getegid02_16 getegid02_16
+geteuid01_16 geteuid01_16
+geteuid02_16 geteuid02_16
+getgid01_16 getgid01_16
+getgid03_16 getgid03_16
+getgroups01_16 getgroups01_16
+getgroups03_16 getgroups03_16
+getresgid01_16 getresgid01_16
+getresgid02_16 getresgid02_16
+getresgid03_16 getresgid03_16
+getresuid01_16 getresuid01_16
+getresuid02_16 getresuid02_16
+getresuid03_16 getresuid03_16
+get_mempolicy01 get_mempolicy01
+getuid01_16 getuid01_16
+getuid03_16 getuid03_16
+getxattr01 getxattr01
+getxattr02 getxattr02
+getxattr03 getxattr03
+getxattr05 getxattr05
+ioctl08      ioctl08
+fanotify13 fanotify13
+fanotify15 fanotify15
+io_cancel01 io_cancel01
+io_destroy01 io_destroy01
+io_getevents01 io_getevents01
+io_setup01 io_setup01
+io_submit01 io_submit01
+lchown01_16 lchown01_16
+lchown02_16 lchown02_16
+lchown03_16 lchown03_16
+mbind01 mbind01
+mbind02 mbind02
+mbind03 mbind03
+mbind04 mbind04
+migrate_pages01 migrate_pages01
+migrate_pages02 migrate_pages02
+migrate_pages03 migrate_pages03
+move_pages01 move_pages01
+move_pages02 move_pages02
+move_pages03 move_pages03
+move_pages04 move_pages04
+move_pages05 move_pages05
+move_pages06 move_pages06
+move_pages07 move_pages07
+move_pages08 move_pages08
+move_pages09 move_pages09
+move_pages10 move_pages10
+move_pages11 move_pages11
+move_pages12 move_pages12
+pkey01 pkey01
+msgrcv08 msgrcv08
+pidfd_send_signal01 pidfd_send_signal01
+pidfd_send_signal02 pidfd_send_signal02
+pidfd_send_signal03 pidfd_send_signal03
+prctl07 prctl07
+ptrace04 ptrace04
+ptrace07 ptrace07
+quotactl02 quotactl02
+quotactl03 quotactl03
+readdir21 readdir21
+recvmsg03 recvmsg03
+removexattr01 removexattr01
+removexattr02 removexattr02
+sbrk03 sbrk03
+setfsgid01_16 setfsgid01_16
+setfsgid02_16 setfsgid02_16
+setfsgid03_16 setfsgid03_16
+setfsuid01_16 setfsuid01_16
+setfsuid02_16 setfsuid02_16
+setfsuid03_16 setfsuid03_16
+setfsuid04_16 setfsuid04_16
+setgid01_16 setgid01_16
+setgid02_16 setgid02_16
+setgid03_16 setgid03_16
+sgetmask01 sgetmask01
+setgroups01_16 setgroups01_16
+setgroups02_16 setgroups02_16
+setgroups03_16 setgroups03_16
+setgroups04_16 setgroups04_16
+setregid01_16 setregid01_16
+setregid02_16 setregid02_16
+setregid03_16 setregid03_16
+setregid04_16 setregid04_16
+setresgid01_16 setresgid01_16
+setresgid02_16 setresgid02_16
+setresgid03_16 setresgid03_16
+setresgid04_16 setresgid04_16
+setresuid01_16 setresuid01_16
+setresuid02_16 setresuid02_16
+setresuid03_16 setresuid03_16
+setresuid04_16 setresuid04_16
+setresuid05_16 setresuid05_16
+setreuid01_16 setreuid01_16
+setreuid02_16 setreuid02_16
+setreuid03_16 setreuid03_16
+setreuid04_16 setreuid04_16
+setreuid05_16 setreuid05_16
+setreuid06_16 setreuid06_16
+setreuid07_16 setreuid07_16
+set_thread_area01 set_thread_area01
+setuid01_16 setuid01_16
+setuid03_16 setuid03_16
+setuid04_16 setuid04_16
+setxattr02 setxattr02
+setxattr03 setxattr03
+signal06 signal06
+socketcall01 socketcall01
+ssetmask01 ssetmask01
+swapoff01 swapoff01
+swapoff02 swapoff02
+swapon01 swapon01
+swapon02 swapon02
+swapon03 swapon03
+switch01 endian_switch01
+sysctl01 sysctl01
+sysctl03 sysctl03
+sysctl04 sysctl04
+sysfs01 sysfs01
+sysfs02 sysfs02
+sysfs03 sysfs03
+sysfs04 sysfs04
+sysfs05 sysfs05
+sysfs06 sysfs06
+ustat01 ustat01
+ustat02 ustat02
+utimensat01 utimensat_tests.sh
+statx05 statx05
+statx07 statx07
+dio01 diotest1
+dio02 diotest2
+dio03 diotest3
+dio04 diotest4
+dio05 diotest5
+dio06 diotest6
+dio07 diotest1 -b 65536
+dio08 diotest2 -b 65536
+dio09 diotest3 -b 65536
+dio10 diotest4 -b 65536
+dio11 diotest5 -b 65536
+dio12 diotest6 -b 65536
+dio13 diotest1 -b 65536 -n 2000
+dio14 diotest2 -b 65536 -i 1000
+dio15 diotest3 -b 65536 -i 1000
+dio16 diotest5 -b 65536 -i 1000
+dio17 diotest6 -b 65536 -i 1000
+dio18 diotest2 -b 65536 -i 1000 -o 1024000
+dio19 diotest3 -b 65536 -i 1000 -o 1024000
+dio20 diotest5 -b 65536 -i 1000 -o 1024000
+dio21 diotest6 -b 65536 -i 1000 -o 1024000
+dio22 diotest2 -b 65536 -i 1000 -o 104857600
+dio23 diotest3 -b 65536 -i 1000 -o 104857600
+dio24 diotest5 -b 65536 -i 1000 -o 104857600
+dio25 diotest6 -b 65536 -i 1000 -o 104857600
+dio26 diotest6 -b 8192 -v 100
+dio27 diotest6 -b 8192 -o 1024000 -i 1000 -v 100
+dio28 diotest6 -b 8192 -o 1024000 -i 1000 -v 200
+dio29 diotest3 -b 65536 -n 100 -i 100 -o 1024000
+dio30 diotest6 -b 65536 -n 100 -i 100 -o 1024000
+aio01 aio01
+aio02 aio02
+mmapstress08 mmapstress08
+ksm02 ksm02
+ksm02_1 ksm02 -u 128
+ksm04 ksm04
+ksm04_1 ksm04 -u 128
+ksm06 ksm06
+ksm06_1 ksm06 -n 10
+ksm06_2 ksm06 -n 10000

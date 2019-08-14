@@ -1,0 +1,70 @@
+none err: 0
+fork parent: 11216, child: 22104
+exec pid: 22104
+fork parent: 22104, child: 22105
+fork parent: 22105, child: 22106
+fork parent: 22105, child: 22107
+fork parent: 22105, child: 22108
+exec pid: 22106
+exec pid: 22107
+exec pid: 22108
+exit pid: 22106 exit_code: 0 exit_signal: 17
+exit pid: 22107 exit_code: 0 exit_signal: 17
+exit pid: 22108 exit_code: 0 exit_signal: 17
+exit pid: 22105 exit_code: 0 exit_signal: 17
+exit pid: 22104 exit_code: 0 exit_signal: 17
+fork parent: 11216, child: 22109
+exec pid: 22109
+fork parent: 22109, child: 22110
+exec pid: 22110
+exit pid: 22110 exit_code: 0 exit_signal: 17
+fork parent: 22109, child: 22111
+fork parent: 22111, child: 22112
+fork parent: 22111, child: 22113
+fork parent: 22111, child: 22114
+exec pid: 22112
+exec pid: 22113
+exec pid: 22114
+exit pid: 22112 exit_code: 0 exit_signal: 17
+exit pid: 22113 exit_code: 0 exit_signal: 17
+exit pid: 22114 exit_code: 0 exit_signal: 17
+exit pid: 22111 exit_code: 0 exit_signal: 17
+fork parent: 22109, child: 22115
+exec pid: 22115
+exit pid: 22115 exit_code: 0 exit_signal: 17
+fork parent: 22109, child: 22116
+fork parent: 22116, child: 22117
+fork parent: 22116, child: 22118
+exit pid: 22117 exit_code: 0 exit_signal: 17
+exec pid: 22118
+exit pid: 22118 exit_code: 0 exit_signal: 17
+exit pid: 22116 exit_code: 0 exit_signal: 17
+fork parent: 22109, child: 22119
+fork parent: 22119, child: 22120
+fork parent: 22119, child: 22121
+fork parent: 22119, child: 22122
+fork parent: 22119, child: 22123
+exec pid: 22120
+exec pid: 22121
+exec pid: 22122
+exec pid: 22123
+exit pid: 22121 exit_code: 256 exit_signal: 17
+exit pid: 22122 exit_code: 256 exit_signal: 17
+exit pid: 22120 exit_code: 0 exit_signal: 17
+exit pid: 22123 exit_code: 0 exit_signal: 17
+exit pid: 22119 exit_code: 0 exit_signal: 17
+exit pid: 22109 exit_code: 0 exit_signal: 17
+exit pid: 22083 exit_code: 0 exit_signal: 17
+fork parent: 11253, child: 22124
+exec pid: 22124
+exit pid: 22103 exit_code: 0 exit_signal: 17
+fork parent: 21986, child: 22125
+exec pid: 22125
+uid pid: 22125 euid: 65534 ruid: 65534
+exit pid: 22125 exit_code: 0 exit_signal: 17
+fork parent: 21986, child: 22126
+exec pid: 22126
+exit pid: 22124 exit_code: 0 exit_signal: 17
+fork parent: 11253, child: 22127
+exec pid: 22127
+exit pid: 22126 exit_code: 0 exit_signal: 17

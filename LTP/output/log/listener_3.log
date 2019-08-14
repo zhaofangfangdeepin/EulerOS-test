@@ -1,0 +1,51 @@
+none err: 0
+exit pid: 22071 exit_code: 0 exit_signal: 17
+fork parent: 11253, child: 22079
+exec pid: 22079
+exit pid: 22078 exit_code: 0 exit_signal: 17
+fork parent: 21986, child: 22080
+exec pid: 22080
+fork parent: 22080, child: 22081
+exit pid: 22080 exit_code: 0 exit_signal: 17
+exit pid: 22081 exit_code: 0 exit_signal: 17
+fork parent: 21986, child: 22082
+exec pid: 22082
+exit pid: 22079 exit_code: 0 exit_signal: 17
+fork parent: 11253, child: 22083
+exec pid: 22083
+fork parent: 11216, child: 22084
+exec pid: 22084
+exit pid: 22084 exit_code: 0 exit_signal: 17
+fork parent: 11216, child: 22085
+exec pid: 22085
+fork parent: 22085, child: 22086
+fork parent: 22086, child: 22087
+fork parent: 22086, child: 22088
+fork parent: 22086, child: 22089
+exec pid: 22087
+exec pid: 22088
+exec pid: 22089
+exit pid: 22087 exit_code: 0 exit_signal: 17
+exit pid: 22088 exit_code: 0 exit_signal: 17
+exit pid: 22089 exit_code: 0 exit_signal: 17
+exit pid: 22086 exit_code: 0 exit_signal: 17
+fork parent: 22085, child: 22090
+fork parent: 22090, child: 22091
+fork parent: 22090, child: 22092
+fork parent: 22090, child: 22093
+exec pid: 22091
+exec pid: 22092
+exec pid: 22093
+exit pid: 22092 exit_code: 0 exit_signal: 17
+exit pid: 22093 exit_code: 0 exit_signal: 17
+exit pid: 22091 exit_code: 0 exit_signal: 17
+exit pid: 22090 exit_code: 0 exit_signal: 17
+fork parent: 22085, child: 22094
+fork parent: 22094, child: 22095
+fork parent: 22094, child: 22096
+exit pid: 22095 exit_code: 0 exit_signal: 17
+exec pid: 22096
+exit pid: 22096 exit_code: 0 exit_signal: 17
+exit pid: 22094 exit_code: 0 exit_signal: 17
+exit pid: 22085 exit_code: 0 exit_signal: 17
+exit pid: 22082 exit_code: 0 exit_signal: 17
