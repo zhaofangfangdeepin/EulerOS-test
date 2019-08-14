@@ -1,0 +1,20 @@
+[zhaofangfang@localhost ~]$ dd if=/dev/zero of=/dev/null bs=1M count=`free -m | awk  'NR==2{print$2}'`
+记录了256383+0 的读入
+记录了256383+0 的写出
+268837060608 bytes (269 GB, 250 GiB) copied, 18.7023 s, 14.4 GB/s
+[zhaofangfang@localhost ~]$ dd if=/dev/zero of=/dev/null bs=1M count=`free -m | awk  'NR==2{print$2}'`
+记录了256383+0 的读入
+记录了256383+0 的写出
+268837060608 bytes (269 GB, 250 GiB) copied, 18.5781 s, 14.5 GB/s
+[zhaofangfang@localhost ~]$ dd if=/dev/zero of=/dev/null bs=1M count=`free -m | awk  'NR==2{print$2}'`
+记录了256383+0 的读入
+记录了256383+0 的写出
+268837060608 bytes (269 GB, 250 GiB) copied, 18.2421 s, 14.7 GB/s
+[zhaofangfang@localhost ~]$ dd if=/dev/zero of=/dev/null bs=1M count=`free -m | awk  'NR==2{print$2}'`
+记录了256383+0 的读入
+记录了256383+0 的写出
+268837060608 bytes (269 GB, 250 GiB) copied, 18.7125 s, 14.4 GB/s
+[zhaofangfang@localhost ~]$ dd if=/dev/zero of=/dev/null bs=1M count=`free -m | awk  'NR==2{print$2}'`
+记录了256383+0 的读入
+记录了256383+0 的写出
+268837060608 bytes (269 GB, 250 GiB) copied, 18.7432 s, 14.3 GB/s

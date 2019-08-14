@@ -1,0 +1,1 @@
+BOOT_IMAGE=/vmlinuz-4.19.36-vhulk1906.1.0.h288.eulerosv2r8.aarch64 root=/dev/mapper/euleros-root ro crash_kexec_post_notifiers softlockup_panic=1 panic=1 reserve_kbox_mem=16M vga=0x317 nohz=off rd.shell=0 fsck.mode=auto fsck.repair=yes crashkernel=512M rd.lvm.lv=euleros/root rd.lvm.lv=euleros/swap
