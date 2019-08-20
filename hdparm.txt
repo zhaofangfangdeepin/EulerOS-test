@@ -1,0 +1,42 @@
+[root@localhost home]# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   7330 MB in  2.00 seconds = 3668.19 MB/sec
+[root@localhost home]# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   7436 MB in  2.00 seconds = 3721.15 MB/sec
+[root@localhost home]# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   6968 MB in  2.00 seconds = 3486.44 MB/sec
+[root@localhost home]# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   7096 MB in  2.00 seconds = 3551.55 MB/sec
+[root@localhost home]# hdparm -T /dev/sda
+
+/dev/sda:
+ Timing cached reads:   7180 MB in  2.00 seconds = 3593.32 MB/sec
+
+[root@localhost zhaofangfang]# hdparm -t /dev/sda
+
+/dev/sda:
+ Timing buffered disk reads: 3220 MB in  3.00 seconds = 1072.90 MB/sec
+[root@localhost zhaofangfang]# hdparm -t /dev/sda
+
+/dev/sda:
+ Timing buffered disk reads: 3350 MB in  3.00 seconds = 1116.47 MB/sec
+[root@localhost zhaofangfang]# hdparm -t /dev/sda
+
+/dev/sda:
+ Timing buffered disk reads: 3352 MB in  3.00 seconds = 1116.92 MB/sec
+[root@localhost zhaofangfang]# hdparm -t /dev/sda
+
+/dev/sda:
+ Timing buffered disk reads: 3354 MB in  3.00 seconds = 1117.26 MB/sec
+[root@localhost zhaofangfang]# hdparm -t /dev/sda
+
+/dev/sda:
+ Timing buffered disk reads: 3350 MB in  3.00 seconds = 1116.36 MB/sec
+
